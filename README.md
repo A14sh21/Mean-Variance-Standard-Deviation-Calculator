@@ -4,25 +4,37 @@ This Python project implements a statistical calculator that computes the mean, 
 It includes robust error handling and comprehensive unit tests to verify correctness.
 
 # Features
-Accepts a list of 9 numerical values as input
-Converts the list into a 3x3 NumPy array
+1. Accepts a list of 9 numerical values as input
+
+2. Converts the list into a 3x3 NumPy array
 
 # Computes:
-Mean
-Variance
-Standard Deviation
-Maximum & Minimum
-Sum
+1. Mean
+
+2. Variance
+
+3. Standard Deviation
+
+4. Maximum & Minimum
+
+5. Sum
 
 # Outputs results for:
-Each row
-Each column
-The entire matrix (flattened)
-Returns results as a clean dictionary structure
-Handles input errors (e.g., less than 9 elements)
-Includes full unit test suite
+1. Each row
+
+2. Each column
+
+3. The entire matrix (flattened)
+
+4. Returns results as a clean dictionary structure
+
+5. Handles input errors (e.g., less than 9 elements)
+
+6. Includes full unit test suite
 
 # Technologies Used
-Python 3
-NumPy
-unittest for testing
+1. Python 3
+
+2. NumPy
+
+3. unittest for testing
